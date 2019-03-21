@@ -3,4 +3,4 @@ import pytest
 
 
 def test_soma():
-        assert soma(2,4)==6
+    assert soma(2,4)==6
